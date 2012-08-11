@@ -5,65 +5,88 @@
     <WindowsUser>Oskar</WindowsUser>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>D66050C971BC84F68135F5082BF1F43F02AF0C8B0C4926095A9BA65FC49733C3</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>6ddf0541-80fd-4b7b-970f-c46c7ee560fe_1.0.0.0_neutral__cm3yyjsf3mdn4</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>6ddf0541-80fd-4b7b-970f-c46c7ee560fe_cm3yyjsf3mdn4!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>6ddf0541-80fd-4b7b-970f-c46c7ee560fe</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Oskar</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
     <AppXManifest Include="C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-08-11T15:35:43.213</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\bin\Debug\SpaceBox.exe">
       <PackagePath>SpaceBox.exe</PackagePath>
+      <Modified>2012-08-11T15:35:42.962</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\bin\Debug\SpaceBox.pdb">
       <PackagePath>SpaceBox.pdb</PackagePath>
+      <Modified>2012-08-11T15:35:42.935</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-08-11T13:26:33.040</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\Assets\SmallLogo.png">
       <PackagePath>Assets\SmallLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-08-11T13:26:33.043</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\Assets\SplashScreen.png">
       <PackagePath>Assets\SplashScreen.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-08-11T13:26:33.043</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-08-11T13:26:33.044</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\Assets\LightGray.png">
       <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2012-08-11T13:26:33.039</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\Assets\MediumGray.png">
       <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2012-08-11T13:26:33.041</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\Assets\DarkGray.png">
       <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2012-08-11T13:26:33.039</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\bin\Debug\BlankPage1.xaml">
       <PackagePath>BlankPage1.xaml</PackagePath>
+      <Modified>2012-08-11T13:41:55.041</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\bin\Debug\Common\StandardStyles.xaml">
       <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-08-11T13:26:33.065</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\bin\Debug\GroupedItemsPage.xaml">
       <PackagePath>GroupedItemsPage.xaml</PackagePath>
+      <Modified>2012-08-11T13:26:33.081</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\bin\Debug\GroupDetailPage.xaml">
       <PackagePath>GroupDetailPage.xaml</PackagePath>
+      <Modified>2012-08-11T13:26:33.077</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\bin\Debug\ItemDetailPage.xaml">
       <PackagePath>ItemDetailPage.xaml</PackagePath>
+      <Modified>2012-08-11T13:26:33.086</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\bin\Debug\App.xaml">
       <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-08-11T13:26:33.034</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-08-11T13:27:07.995</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

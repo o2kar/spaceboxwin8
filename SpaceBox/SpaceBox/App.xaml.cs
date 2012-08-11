@@ -67,7 +67,7 @@ namespace SpaceBox
                 // When the navigation stack isn't restored navigate to the first page,
                 // und konfigurieren Sie die neue Seite, indem Sie die erforderlichen Informationen als Navigationsparameter
                 // übergeben.
-                if (!rootFrame.Navigate(typeof(GroupedItemsPage), "AllGroups"))
+                if (!rootFrame.Navigate(typeof(BlankPage1), "AllGroups"))
                 {
                     throw new Exception("Failed to create initial page");
                 }

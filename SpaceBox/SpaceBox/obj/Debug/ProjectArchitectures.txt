@@ -1,1 +1,1 @@
-c:\users\oskar\documents\visual studio 2012\Projects\SpaceBox\SpaceBox\SpaceBox.csproj;neutral
+C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\SpaceBox.csproj;neutral

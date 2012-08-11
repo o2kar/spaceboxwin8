@@ -31,3 +31,39 @@ c:\users\oskar\documents\visual studio 2012\Projects\SpaceBox\SpaceBox\obj\Debug
 c:\users\oskar\documents\visual studio 2012\Projects\SpaceBox\SpaceBox\obj\Debug\pri.resfiles
 c:\users\oskar\documents\visual studio 2012\Projects\SpaceBox\SpaceBox\obj\Debug\LanguageQualifiers.txt
 c:\users\oskar\documents\visual studio 2012\Projects\SpaceBox\SpaceBox\obj\Debug\ProjectArchitectures.txt
+C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\bin\Debug\SpaceBox.exe
+C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\bin\Debug\SpaceBox.pdb
+C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\bin\Debug\resources.pri
+C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\bin\Debug\AppxManifest.xml
+C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\bin\Debug\SpaceBox.build.appxrecipe
+C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\obj\Debug\App.g.i.cs
+C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\obj\Debug\App.g.cs
+C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\obj\Debug\BlankPage1.g.i.cs
+C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\obj\Debug\BlankPage1.g.cs
+C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\obj\Debug\GroupedItemsPage.g.i.cs
+C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\obj\Debug\GroupedItemsPage.g.cs
+C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\obj\Debug\GroupDetailPage.g.i.cs
+C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\obj\Debug\GroupDetailPage.g.cs
+C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\obj\Debug\ItemDetailPage.g.i.cs
+C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\obj\Debug\ItemDetailPage.g.cs
+C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\obj\Debug\App.xaml
+C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\obj\Debug\BlankPage1.xaml
+C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\obj\Debug\GroupedItemsPage.xaml
+C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\obj\Debug\GroupDetailPage.xaml
+C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\obj\Debug\ItemDetailPage.xaml
+C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\obj\Debug\SpaceBox.exe
+C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\obj\Debug\SpaceBox.pdb
+C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\obj\Debug\priconfig.xml.intermediate
+C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\obj\Debug\layout.resfiles.intermediate
+C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\obj\Debug\resources.resfiles.intermediate
+C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\obj\Debug\pri.resfiles.intermediate
+C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\obj\Debug\priconfig.xml
+C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\obj\Debug\layout.resfiles
+C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\obj\Debug\resources.resfiles
+C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\obj\Debug\pri.resfiles
+C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\obj\Debug\LanguageQualifiers.txt
+C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\obj\Debug\ProjectArchitectures.txt
