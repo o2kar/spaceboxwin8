@@ -9,8 +9,10 @@
     mc:Ignorable="d">
 
     <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
-        <Button x:ConnectionId='1' x:Name="btnZeigeInhalt" Content="Zeige Inhalt" HorizontalAlignment="Left" Margin="189,211,0,0" VerticalAlignment="Top"                       />
-        <TextBlock x:Name="txtInhalt" HorizontalAlignment="Left" Margin="497,58,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Height="220" Width="256"/>
+        <Button x:ConnectionId='1' x:Name="btnZeigeInhalt" Content="Authentifikation" HorizontalAlignment="Left" Margin="189,211,0,0" VerticalAlignment="Top"                       />
+        <TextBox x:Name="DropboxClientID" HorizontalAlignment="Left" Margin="60,106,0,0" TextWrapping="Wrap" Text="Client ID..." VerticalAlignment="Top" Width="329"/>
+        <TextBox x:Name="DropboxUrl" HorizontalAlignment="Left" Margin="60,143,0,0" TextWrapping="Wrap" Text="https://www.dropbox.com/1/oauth/authorize" VerticalAlignment="Top" Width="821"/>
+        <TextBlock x:Name="ausgabe" HorizontalAlignment="Left" Margin="595,211,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Height="146" Width="198"/>
 
     </Grid>
 </Page>

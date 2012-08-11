@@ -22,11 +22,11 @@
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\bin\Debug\SpaceBox.exe">
       <PackagePath>SpaceBox.exe</PackagePath>
-      <Modified>2012-08-11T15:35:42.962</Modified>
+      <Modified>2012-08-11T19:23:56.239</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\bin\Debug\SpaceBox.pdb">
       <PackagePath>SpaceBox.pdb</PackagePath>
-      <Modified>2012-08-11T15:35:42.935</Modified>
+      <Modified>2012-08-11T19:23:56.210</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
@@ -62,7 +62,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\bin\Debug\BlankPage1.xaml">
       <PackagePath>BlankPage1.xaml</PackagePath>
-      <Modified>2012-08-11T13:41:55.041</Modified>
+      <Modified>2012-08-11T18:54:36.531</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Oskar\Documents\GitHub\spaceboxwin8\SpaceBox\SpaceBox\bin\Debug\Common\StandardStyles.xaml">
       <PackagePath>Common\StandardStyles.xaml</PackagePath>

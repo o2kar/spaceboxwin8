@@ -39,25 +39,21 @@ namespace SpaceBox
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
-            txtInhalt.Text = "Hallo Welt";
-            
-        try
-        {   
-            
+            DropboxAuthentication();
 
-            String DropboxURL = "https://www.dropbox.com/1/oauth/authorize" + DropboxClientID.Text + "&redirect_uri=" + Uri.EscapeUriString(FacebookCallbackUrl.Text) + "&scope=read_stream&display=popup&response_type=token";
-
-            System.Uri StartUri = new Uri(DropboxURL);
-            System.Uri EndUri = new Uri(FacebookCallbackUrl.Text);
-
-            DebugPrint("Navigating to: " + DropboxURL);
-
-            WebAuthenticationResult WebAuthenticationResult = await WebAuthenticationBroker.AuthenticateAsync(WebAuthenticationOptions.None, StartUri, EndUri);
             
-            
-        }
 
 
         }
+
+        private async void DropboxAuthentication()
+        {
+            String id = DropboxClientID.Text;
+            System.Uri uri = new Uri(DropboxUrl.Text);
+            System.Uri callbackUri = new Uri("");
+            WebAuthenticationResult WebAuthenticationResult = await WebAuthenticationBroker.AuthenticateAsync(WebAuthenticationOptions.None, uri, callbackUri);
+            ausgabe.Text = WebAuthenticationResult.ResponseStatus.ToString();
+        }
+
     }
 }
